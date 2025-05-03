@@ -113,24 +113,28 @@ int main(){
 
             printf("* Carta 1 ");
             printf("Estado: %c\n", estado1);
-            printf
+            printf("Codigo: %s\n", codigo1);
+            printf("Cidade: %s\n", cidade1);
+            printf("Populacao: %d\n", populacao1);
+            printf("Area: %.2f\n", areakm1);
+            printf("PBI: %.2f\n", pib1);
+            printf("Pontos Turisticos: %d\n", pontosturisticos1);
+
+            //Imprime informacoes da Carta 2
+
+            printf("* Carta 2*\n");
+            printf("Estado: %c\n", estado2);
+            printf("Codigo: %s\n", codigo2);
+            printf("Cidade: %s\n", cidade2);
+            printf("Populacao: %d\n", populacao2);
+            printf("Area: %2.f Km²\n", areakm2);
+            printf("Pontos Turisticos: %n\n", pontosturisticos2);
         
         
 
 
 
             
-
-
-
-
-
-
-
-
-        
-
-
 
     return 0;
 
