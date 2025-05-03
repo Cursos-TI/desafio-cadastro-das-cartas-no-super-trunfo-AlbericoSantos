@@ -9,7 +9,7 @@ int main(){
     int populacao1;
     float area_em_km²1;
     float PIB; //em Bilhoes
-    int ponto_turisticos;
+    int pontos_turisticos;
 
         // Carta 2
     char estado_2 [2];
@@ -36,8 +36,12 @@ int main(){
         scanf("%f", &area_em_km²1);
         printf("Digite_o_PIBL:\n");
         scanf("%f", &PIB);
-        prinf("Digite_pontos_turisticos1\n")
-        scanf("%d", &pontos_turisticos1);
+        prinf("Digite_pontos_turisticos1\n");
+        scanf("%d", &pontos_turisticos);
+        
+
+        
+
 
 
 
